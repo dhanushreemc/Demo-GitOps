@@ -1,6 +1,6 @@
 {
   "name": "Node.js Sample",
   "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/dhanushreemc/sample-nodejs-app",
+  "repository": "https://github.com/dhanushreemc/Demo-gitOps.git",
   "keywords": ["node", "express", "static"]
 }
